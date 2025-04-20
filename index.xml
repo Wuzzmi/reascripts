@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="reascripts" commit="6d311862d0474880e77809e7eb871e2003ae5f31">
+<index version="1" name="wuzzmi-scripts" commit="6d311862d0474880e77809e7eb871e2003ae5f31">
   <category name="Tracks Properties">
     <reapack name="Copy track color(sws hex format).lua" type="script" desc="Copy track color(sws hex format)">
       <metadata>
