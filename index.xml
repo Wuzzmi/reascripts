@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="wuzzmi-scripts" commit="6d311862d0474880e77809e7eb871e2003ae5f31">
+<index version="1" name="wuzzmi-scripts" commit="687fd62137dd421688e55e07622f3945079009cc">
   <category name="Tracks Properties">
     <reapack name="Copy track color(sws hex format).lua" type="script" desc="Copy track color(sws hex format)">
       <metadata>
@@ -7,7 +7,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color to the hex format used for changing color in sws auto color.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color to the hex format. Used for changing color in sws auto color.\par}
 }
 ]]></description>
       </metadata>
