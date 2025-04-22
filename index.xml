@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="wuzzmi-scripts" commit="687fd62137dd421688e55e07622f3945079009cc">
+<index version="1" name="wuzzmi-scripts" commit="0326a33bc6f6610ecf6e44283464d89b4fe9aa11">
   <category name="Tracks Properties">
-    <reapack name="Copy track color(sws hex format).lua" type="script" desc="Copy track color(sws hex format)">
+    <reapack name="Copy track color(sws hex format).lua" type="script" desc="Copy track color(0xrrggbb)">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color to the hex format. Used for changing color in sws auto color.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color as hex to clipboard. The hex format used is prefixed with "0x".\par}
 }
 ]]></description>
       </metadata>
