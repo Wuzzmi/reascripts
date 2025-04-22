@@ -1,4 +1,4 @@
--- @description Copy track color(0xRRGGBB)
+-- @description Copy track color (0xRRGGBB)
 -- @author Wuzzmi
 -- @version 1.0
 -- @about Copies the selected track's color as hex to clipboard. The hex format used is "0xRRGGBB". Made for translating track colors to sws auto color.
