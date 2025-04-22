@@ -1,7 +1,7 @@
 -- @description Copy track color(sws hex format)
 -- @author Wuzzmi
 -- @version 1.0
--- @about Copies the selected track's color to the hex format used for changing color in sws auto color.
+-- @about Copies the selected track's color to the hex format. Used for changing color in sws auto color.
 
 
 -- Get track color
