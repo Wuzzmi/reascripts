@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="wuzzmi-scripts" commit="0326a33bc6f6610ecf6e44283464d89b4fe9aa11">
+<index version="1" name="wuzzmi-scripts" commit="dfb6719ca58f5b4e4b3f2fe4f0d38187e53ad198">
   <category name="Tracks Properties">
-    <reapack name="Copy track color(sws hex format).lua" type="script" desc="Copy track color(0xrrggbb)">
+    <reapack name="Copy track color (0xRRGGBB).lua" type="script" desc="Copy track color(0xRRGGBB)">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color as hex to clipboard. The hex format used is prefixed with "0x".\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copies the selected track's color as hex to clipboard. The hex format used is "0xRRGGBB". Made for translating track colors to sws auto color.\par}
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Wuzzmi" time="2025-04-20T21:51:57Z">
-        <source main="main">https://github.com/Wuzzmi/reascripts/raw/6d311862d0474880e77809e7eb871e2003ae5f31/Tracks%20Properties/Copy%20track%20color(sws%20hex%20format).lua</source>
+      <version name="1.0" author="Wuzzmi" time="2025-04-22T19:04:52Z">
+        <source main="main">https://github.com/Wuzzmi/wuzzmi-scripts/raw/dfb6719ca58f5b4e4b3f2fe4f0d38187e53ad198/Tracks%20Properties/Copy%20track%20color%20(0xRRGGBB).lua</source>
       </version>
     </reapack>
   </category>
