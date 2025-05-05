@@ -5,19 +5,19 @@
 
 
 -- Get track color
-track = reaper.GetSelectedTrack( 0, 0 )
-deci_color = reaper.GetTrackColor( track )
+local track = reaper.GetSelectedTrack( 0, 0 )
+local deci_color = reaper.GetTrackColor( track )
 
 -- decimal > hex
-hex = string.format("%x", deci_color):sub(2)
-red = string.sub( hex, 5, 6 )
-green = string.sub( hex, 3, 4 )
-blue = string.sub( hex, 1, 2 )
-conv_hex = red .. green .. blue
+local hex = string.format("%x", deci_color):sub(2)
+local red = string.sub( hex, 5, 6 )
+local green = string.sub( hex, 3, 4 )
+local blue = string.sub( hex, 1, 2 )
+local conv_hex = red .. green .. blue
 
 -- Add prefix 
-pre = "0x"
-formated_hex = pre .. conv_hex
+local pre = "0x"
+local formated_hex = pre .. conv_hex
 
 -- Copy > clipboard
 reaper.CF_SetClipboard( formated_hex )
