@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="wuzzmi-scripts" commit="b8f4e602d911dac3356410dbc11bec82389f29e4">
+<index version="1" name="wuzzmi-scripts" commit="77911431ba80b52ea3b558938d896270ff3d6705">
   <category name="Tracks Properties">
-    <reapack name="Copy track color (0xRRGGBB).lua" type="script" desc="Copy track color (0xRRGGBB)">
+    <reapack name="copy_track_color.lua" type="script" desc="Copy track color (0xRRGGBB)">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -11,8 +11,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Wuzzmi" time="2025-04-22T19:04:52Z">
-        <source main="main">https://github.com/Wuzzmi/wuzzmi-scripts/raw/dfb6719ca58f5b4e4b3f2fe4f0d38187e53ad198/Tracks%20Properties/Copy%20track%20color%20(0xRRGGBB).lua</source>
+      <version name="1.0" author="Wuzzmi" time="2025-05-09T17:55:07Z">
+        <source main="main">https://github.com/Wuzzmi/wuzzmi-scripts/raw/77911431ba80b52ea3b558938d896270ff3d6705/Tracks%20Properties/copy_track_color.lua</source>
       </version>
     </reapack>
   </category>
