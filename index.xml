@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="wuzzmi-scripts" commit="77911431ba80b52ea3b558938d896270ff3d6705">
+<index version="1" name="wuzzmi-scripts" commit="f5743924342e51d5b0291fc04c003dc657377bd9">
   <category name="Tracks Properties">
     <reapack name="copy_track_color.lua" type="script" desc="Copy track color (0xRRGGBB)">
       <metadata>
@@ -13,6 +13,10 @@
       </metadata>
       <version name="1.0" author="Wuzzmi" time="2025-05-09T17:55:07Z">
         <source main="main">https://github.com/Wuzzmi/wuzzmi-scripts/raw/77911431ba80b52ea3b558938d896270ff3d6705/Tracks%20Properties/copy_track_color.lua</source>
+      </version>
+      <version name="1.1" author="Wuzzmi" time="2025-05-09T19:55:57Z">
+        <changelog><![CDATA[Should now work on both window and unix systems]]></changelog>
+        <source main="main">https://github.com/Wuzzmi/wuzzmi-scripts/raw/f5743924342e51d5b0291fc04c003dc657377bd9/Tracks%20Properties/copy_track_color.lua</source>
       </version>
     </reapack>
   </category>
