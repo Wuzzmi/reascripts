@@ -24,4 +24,4 @@ local pre = "0x"
 local formated_hex = pre .. hex
 
 -- Copy > clipboard
-reaper.CF_SetClipboard(formated_hex)
+reaper.CF_SetClipboard(hex)
