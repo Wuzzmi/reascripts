@@ -21,7 +21,7 @@ end
 
 -- Add prefix
 local pre = "0x"
-local formated_hex = pre .. hex
+local formatted_hex = pre .. hex
 
 -- Copy > clipboard
-reaper.CF_SetClipboard(hex)
+reaper.CF_SetClipboard(formatted_hex)
